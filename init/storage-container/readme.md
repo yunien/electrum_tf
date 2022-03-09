@@ -1,0 +1,1 @@
+## stored .tfstate in azure storage
